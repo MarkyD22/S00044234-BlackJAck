@@ -1,0 +1,3 @@
+C:\Users\markd\Documents\Hdip Computer Sci\OOSD\2023_2024\BlackJack\S00044234 BlackJAck\obj\Debug\S00044234 BlackJAck.csproj.AssemblyReference.cache
+C:\Users\markd\Documents\Hdip Computer Sci\OOSD\2023_2024\BlackJack\S00044234 BlackJAck\obj\Debug\S00044234 BlackJAck.csproj.SuggestedBindingRedirects.cache
+C:\Users\markd\Documents\Hdip Computer Sci\OOSD\2023_2024\BlackJack\S00044234 BlackJAck\obj\Debug\S00044234 BlackJAck.csproj.CoreCompileInputs.cache
